@@ -1,0 +1,13 @@
+body {
+    background-color: #f9e800; 
+    color: #f60000; 
+    
+}
+
+p {
+    margin: 10px;color: #e6490b; 
+}
+div {
+    background-color: rgb(255, 202, 26);
+    font-size: 40px;
+}
